@@ -1,0 +1,2 @@
+# HireHub
+HireHub is a dynamic platform designed to connect IT professionals with exciting job opportunities. Our mission is to bridge the gap between talented individuals and top tech companies by offering a seamless job search experience. Whether you're a developer, data scientist, or IT specialist, HireHub provides a wide range of career possibilities tailored to your expertise. Start your journey with us and find your next big opportunity in the ever-evolving world of technology.
